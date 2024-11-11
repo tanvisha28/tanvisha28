@@ -48,7 +48,6 @@ I'm a passionate **Data Scientist** and **Data Analyst** currently pursuing my *
 
 ---
 
-## Additional Sections
 
 ### 🌱 I’m currently learning...
 - Advanced **Neural Networks**, **NLP**, and **Big Data Analysis**.
