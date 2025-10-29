@@ -22,6 +22,19 @@ I'm a passionate **Data Scientist** and **Data Analyst** currently pursuing my *
 - Managed financial records, processing transactions including OT bills and travel allowances with high accuracy.
 
 ## Research Projects
+**Tesla Stock Price Prediction and Sentiment Analysis**
+*March 2025 - May 2025*
+- Built an end-to-end forecasting pipeline combining technical indicators (MACD, RSI, Bollinger Bands) and Reddit/Guardian/NYT sentiment data, training Random Forest and XGBoost models with walk-forward validation for next-day price forecasts.
+- Analyzed feature importance and sentiment impact using SHAP and correlation metrics, visualized through interactive Plotly dashboards for technical and non-technical users.
+
+**Credit Risk Assessment Using Machine Learning**
+*January 2024 - May 2024
+- Created and operationalised an end-to-end loan default prediction workflow with preprocessing, feature engineering, and hyperparameter
+tuning. Assessed multiple models and deployed LightGBM, achieving 77% accuracy with stronger recall on default cases, incorporated
+data validation, cross-validation, and imbalanced sampling (SMOTE/undersampling) to ensure reliability across diverse borrower seg-
+ments.
+- Launched a full-stack credit assessment application using Flask + VueJS, exposing real-time inference APIs and embedding SHAP-based
+interpretability with interactive dashboards, delivering transparent, regulator-ready insights for business stakeholders.
 
 **Logistics Management Using Blockchain**  
 *January 2023 - May 2023*  
@@ -29,7 +42,7 @@ I'm a passionate **Data Scientist** and **Data Analyst** currently pursuing my *
 - Enhanced logistics efficiency by 75% through operational transparency and data traceability.
 
 **Real vs AI-Generated Image Classifier**  
-*July 2022 - December 2022*  
+*July 2023 - December 2023*  
 - Developed a deep learning model achieving 92% accuracy in distinguishing real vs. AI-generated images.
 - Reduced training time by 70% with optimizations and high GPU performance.
 
