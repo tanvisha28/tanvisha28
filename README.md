@@ -77,7 +77,7 @@ interpretability with interactive dashboards, delivering transparent, regulator-
 - Model adaptation to market conditions provided valuable insights for financial decision-making.
 
 **Breast-Cancer-Detection**
-**November 2022 - January 2023
+*November 2022 - January 2023*
 - Built a breast-cancer image-classification pipeline using the BreaKHis histopathological dataset (7,909 images across 40X–400X magnifications) to distinguish benign vs. malignant tumors.
 - Trained a DenseNet-121 pretrained model with custom preprocessing, augmentation, and config-driven experiments, achieving strong training/validation accuracy tracked through TensorBoard.
 - Implemented a full training workflow with conda environment setup, PyTorch template structure, ETL of Kaggle data, and experiment logging for reproducible model development.
