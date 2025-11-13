@@ -9,7 +9,7 @@ I'm a passionate **Data Scientist** and **Data Analyst** currently pursuing my *
 - **💼 Profession:** Data Scientist / Data Analyst  
 - **📍 Location:** New Brunswick, NJ  
 - **🌐 LinkedIn:** [Tanvisha Kose](https://www.linkedin.com/in/tanvisha-kose411)  
-- **📧 Email:** [trk60@scarletmail.rutgers.edu](mailto:trk60@scarletmail.rutgers.edu)
+- **📧 Email:** [tankose411@gmail.com](mail.to:tankose411@gmail.com),[trk60@scarletmail.rutgers.edu](mailto:trk60@scarletmail.rutgers.edu)
 
 ## Relevant Coursework
 - Python, Django Framework, Advanced Database Management (SQL & NoSQL), Probability and Statistics, Statistical Modeling, Machine Learning, Neural Networks, Deep Learning, Java, Spring Framework, AWS Cloud, Micro-services, Linear Programming, Data Structures and Algorithms, Regression and Time Series Analysis, Solidity, JavaScript, React, Node, Typescript, MERN Stack, WebRTC, Docker, Next.js, Tailwind, Kafka, Zapier.
@@ -17,13 +17,13 @@ I'm a passionate **Data Scientist** and **Data Analyst** currently pursuing my *
 ## Professional Experience
 
 **Graduate Research Assistant | Rutgers University**  
-*Sep 2025 - Present*
+*Sep 2025 - Present*  
 - Engineered multi-variable biochemical datasets (PV, TBARS, COPs) using SQL and Python, built data dictionaries, and applied ANOVA, PCA, and regression to identify 15 key oxidation markers for process-level insights.
 - Developed automated Power BI analytics pipelines and statistical reports that improved interpretability and reduced manual analysis time by 30%, while contributing to relational/NoSQL data-model design and ETL best practices.
 - Collaborated with cross-functional researchers to present findings, refine requirements, and document datasets and models supporting reproducible analytics and data-driven decision making.
 
 **Data Engineer Intern | Sonaflex Industries**  
-*June 2023 - December 2023*
+*June 2023 - December 2023*  
 - Built automated variance and budget-tracking workflows with Excel VBA, SAS PROC SQL, and SAP integrations, reducing month-end reporting by 40%.
 - Engineered scalable REST APIs and ETL pipelines using Python, SQL, Databricks, and AWS, enabling seamless automated data ingestion.
 - Deployed predictive-maintenance models on IoT/ERP sensor streams with AWS, Docker, and generative-AI augmentation, improving defect-detection accuracy by 25%.
@@ -36,19 +36,19 @@ I'm a passionate **Data Scientist** and **Data Analyst** currently pursuing my *
 ## Research Projects
 
 **Speech-to-Speech Translation using Cascading Connector Architecture**  
-*September 2025 - November 2025*
+*September 2025 - November 2025*  
 - Built a speech-to-speech translation pipeline combining Whisper ASR, frozen MT, and TTS through a cascading connector for seamless multilingual translation.
 - Designed a Q-Former–inspired connector to align ASR embeddings with MT latent spaces, cutting training cost by 90% while preserving high BLEU accuracy.
 - Fine-tuned and evaluated the system on multilingual datasets, achieving real-time performance and adaptability comparable to large transformer models.
 
 **BloodBridge - Real-Time Blood Management Web Application**  
-*August 2025 - November 2025*
+*August 2025 - November 2025*  
 - Built and deployed BloodBridge, a full-stack Flask–PostgreSQL web app with an interactive HTML/CSS/JS front end, reducing emergency blood-response delays by 50%+.
 - Designed a normalized PostgreSQL schema with TimescaleDB to manage donors, organizations, inventory, and transactions with real-time traceability.
 - Developed responsive, role-based dashboards enabling hospitals and blood banks to monitor inventory and manage operations efficiently.  
 
 **Tesla Stock Price Prediction and Sentiment Analysis**  
-*March 2025 - May 2025*
+*March 2025 - May 2025*  
 - Built an end-to-end forecasting pipeline combining technical indicators (MACD, RSI, Bollinger Bands) and Reddit/Guardian/NYT sentiment data, training Random Forest and XGBoost models with walk-forward validation for next-day price forecasts.
 - Analyzed feature importance and sentiment impact using SHAP and correlation metrics, visualized through interactive Plotly dashboards for technical and non-technical users.
 
@@ -58,7 +58,7 @@ I'm a passionate **Data Scientist** and **Data Analyst** currently pursuing my *
 - Reduced training time by 70% with optimizations and high GPU performance.
 
 **Credit Risk Assessment Using Machine Learning**  
-*January 2024 - May 2024*
+*January 2024 - May 2024*  
 - Created and operationalised an end-to-end loan default prediction workflow with preprocessing, feature engineering, and hyperparameter
 tuning. Assessed multiple models and deployed LightGBM, achieving 77% accuracy with stronger recall on default cases, incorporated
 data validation, cross-validation, and imbalanced sampling (SMOTE/undersampling) to ensure reliability across diverse borrower seg-
@@ -77,7 +77,7 @@ interpretability with interactive dashboards, delivering transparent, regulator-
 - Model adaptation to market conditions provided valuable insights for financial decision-making.
 
 **Breast-Cancer-Detection**  
-*November 2022 - January 2023*
+*November 2022 - January 2023*  
 - Built a breast-cancer image-classification pipeline using the BreaKHis histopathological dataset (7,909 images across 40X–400X magnifications) to distinguish benign vs. malignant tumors.
 - Trained a DenseNet-121 pretrained model with custom preprocessing, augmentation, and config-driven experiments, achieving strong training/validation accuracy tracked through TensorBoard.
 - Implemented a full training workflow with conda environment setup, PyTorch template structure, ETL of Kaggle data, and experiment logging for reproducible model development.
